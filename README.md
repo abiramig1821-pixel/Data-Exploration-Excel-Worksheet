@@ -12,11 +12,11 @@
 
  * Microsoft Excel (or) WPS Office
 
-**Steps Invovled:**
+**Steps Involved:**
 
     * Structured source data
     * Summarize data using Excel Formula for efficient data aggregation
-    * Tailored outputs  to match specific requirments.
+    * Tailored outputs  to match specific requirements.
 
 **Formula Used:**
 

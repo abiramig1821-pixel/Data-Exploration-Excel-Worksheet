@@ -1,4 +1,4 @@
-# Data-Exploration-Excel-Worksheet
+# Product Sales Analysis Data Exploration using Excel
 <img width="557" height="247" alt="Readme Header" src="https://github.com/user-attachments/assets/20a6917f-3bda-4fa3-99c0-2f9d0c91eab7" />
 
 
